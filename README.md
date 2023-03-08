@@ -1,2 +1,1 @@
-# .github
-Profile
+![banner](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&animation=twinkling&fontSize=70&fontAlignY=35&descAlignY=55&text=LLSEDev&desc=STUDENT_2333%27s%20LLSE%20%20Plugins%20Dev%20Group)
