@@ -8,4 +8,7 @@
 | :-: | :-: | :-: |
 | [Homepage](https://www.lgc2333.top/) | ◇ | [Sponsor](https://afdian.net/a/lgc2333) |
 
+_Short Link_  
+[`l.none.bot`](https://l.none.bot)
+
 </div>
